@@ -5,7 +5,7 @@
   Breadboard 
   DHT22 Sensor
   Jumpers 
-  ![Uploading Screenshot 2024-05-18 231213.png…]()
+ 
 
  
  ### image

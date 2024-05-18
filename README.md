@@ -5,7 +5,7 @@
   Breadboard 
   DHT22 Sensor
   Jumpers 
-  ![image](https://github.com/yasmeenkhaled/-ESP32-DHT-Server/assets/93330964/55d921a0-f404-4472-9e4f-cbf98c8618bb)
+  ![Uploading Screenshot 2024-05-18 231213.png…]()
 
  
  ### image
